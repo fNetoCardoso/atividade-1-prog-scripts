@@ -1,0 +1,96 @@
+.container{
+    display: flex;
+    color:black;
+    padding:30px
+}
+.col-1{
+    flex:0.5;
+    padding:10px
+}
+.megasena-circulo{
+    flex:1;
+    padding: 0px;
+    margin: 0;
+    text-align: center;
+
+}
+
+.header-container{
+    display: flex;
+    width: 50%;
+    margin-right: 20px;
+  
+}
+.image-header{
+    width: 3em;
+    margin-left: 1em;
+    height: 3em;
+}
+.image-header img{
+    height:100%;
+ 
+}
+ .megasena-logo-header {
+    display: inline-block;
+    padding-top: 7px;
+    font-size: 1.4em;
+    color:#209869;
+}
+
+.megasena-logo-header h3{
+    padding:0;
+    margin:0;
+}
+
+.descricao{
+    padding: 2em 2em 0em 3em;
+    color:gray
+
+    
+}
+.megasena-value{
+    color:#209869;
+    padding: 0em 2em 2em 3em;
+}
+.megasena-circulo ul li{
+    display: inline-block;
+    font-weight: 100;
+    color:white;
+    font-size:1.2rem;
+    padding: 9px 0px;
+    height: 10%;
+    width: 8%;
+    border-radius: 100%;
+    background-color: #209869;
+    margin-right: 20px;
+    text-align: center;
+    line-height: 2em;
+    font-weight: bold;
+
+}
+.megasena-circulo ul{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start:0px;
+    width: 100%;
+ 
+}
+.vencedores{
+    color:rgb(0, 92, 169);
+    text-align: center;
+
+}
+.gameDescription{
+    color: black;
+    text-align: center;
+}
+
+hr{
+    margin-top: -4%;
+    margin-left:2%;
+    margin-right: 2%;
+    border:0.5px solid #d5d9df;
+   
+}
